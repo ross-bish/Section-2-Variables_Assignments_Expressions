@@ -1,2 +1,2 @@
-# Section-2-Variables_Assignments_Expressions
+# Section 2 - Variables, Assignments & Expressions
 5th Year LCCS
