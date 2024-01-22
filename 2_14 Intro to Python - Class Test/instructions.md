@@ -1,4 +1,4 @@
-# Assessment 1 - Intro to Python
+# Assessment 1 - Intro to Python 📝👨🏽‍💻
 
 ## Instructions:
 
