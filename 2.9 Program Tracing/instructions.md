@@ -1,6 +1,7 @@
 # Program Tracing  
 
 ![image](image.png)
+
 ![image](image_2.png)
 
   ## PRIMM Activity 
