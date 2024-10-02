@@ -17,9 +17,18 @@ print("The character represented by decimal value", ascii, " is: ", output)
 
 ### Practice
 
+### V1
 value = input("Enter keyboard value: ")
 ascii = ord(value)
 print("The decimal value of", value, "is", ascii)
+
+### V2
+name = input("Enter name: ")
+
+for i in name:
+    ascii_value = ord(i)
+    print(f"The decimal value of {i} is {ascii_value}")
+
 
 decimal = int(input("Enter Unicode value: "))
 unicode = chr(decimal)
