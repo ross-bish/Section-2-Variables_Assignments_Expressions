@@ -15,7 +15,7 @@ ASCII letter D, because 65+3 = 68. Similarly, the encrypted
 value of C would be F because 67+3 = 70, etc.
 
 ## Step 1 - Investigate & Modify
-Try the following code in `main.py`
+Try the following code in `Thonny`
 ````py
 character = "C"
 key = 3
