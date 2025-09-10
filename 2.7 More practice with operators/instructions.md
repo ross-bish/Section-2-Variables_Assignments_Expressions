@@ -1,4 +1,4 @@
-# More Practice withg Operators
+# More Practice with Operators
 
 These examples are taken from your textbook on pages 15-17.
 
