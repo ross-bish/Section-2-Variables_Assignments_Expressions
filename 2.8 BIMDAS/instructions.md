@@ -20,6 +20,7 @@ This is shown in the table below.
 Let’s find the volume of a sphere with a radius ``r`` of 7 units, 
 assuming ``pi`` is ``3.14``. 
 Use the formula below:
+
 ![image](image_2.png)
 
 We will use variables to store data.
