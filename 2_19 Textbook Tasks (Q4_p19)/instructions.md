@@ -4,7 +4,7 @@
 
 
   ## Steps
-  1. ✍ Using the `Vimeo` app in **Office 365** I want you to create a *flow chart* as a template showing how you will answer this problem. 
+  1. ✍ Using the `Visio` app in **Office 365** I want you to create a *flow chart* as a template showing how you will answer this problem. 
   2. In `Thonny` I want you to prompt the user to enter a temperature value in degrees Fahrenheit (℉).
   3. Use the formula above to convert from ℉ -> ℃.
   4. Use the `round()` function to output your answer to the nearest degree ℃.
